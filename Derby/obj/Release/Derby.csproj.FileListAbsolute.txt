@@ -1,0 +1,13 @@
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\WPF\Derby2\Derby\bin\Release\Derby.exe.config
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\WPF\Derby2\Derby\bin\Release\Derby.exe
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\WPF\Derby2\Derby\bin\Release\Derby.pdb
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\WPF\Derby2\Derby\obj\Release\MainWindow.baml
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\WPF\Derby2\Derby\obj\Release\MainWindow.g.cs
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\WPF\Derby2\Derby\obj\Release\App.g.cs
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\WPF\Derby2\Derby\obj\Release\Derby_MarkupCompile.cache
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\WPF\Derby2\Derby\obj\Release\Derby.g.resources
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\WPF\Derby2\Derby\obj\Release\Derby.Properties.Resources.resources
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\WPF\Derby2\Derby\obj\Release\Derby.csproj.GenerateResource.Cache
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\WPF\Derby2\Derby\obj\Release\Derby.exe
+c:\Users\Павел\Documents\Visual Studio 2013\Projects\WPF\Derby2\Derby\obj\Release\Derby.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\WPF\Derby2\Derby\obj\Release\Derby.csprojResolveAssemblyReference.cache
